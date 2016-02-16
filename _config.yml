@@ -1,0 +1,14 @@
+layout_spectrum: 0.6708483
+typography_spectrum: 0.1320191
+color:
+  saturation: 0.635006
+  lightness: 0.5298685
+  brandStrength: 0.4366786
+  brandColors:
+    - '#050505'
+    - '#49681A'
+    - '#FBFBFB'
+    - '#878787'
+    - '#E07F4C'
+  rhythmicContrast: 0.3912784
+name: Insipid Pop Drivel
